@@ -256,6 +256,7 @@ your user is not called ***jenkins***):
                 "ec2:DescribeImages",
                 "ec2:DescribeAvailabilityZones",
                 "ec2:DescribeSecurityGroups",
+                "ec2:DescribeSpotPriceHistory",
                 "ec2:DescribeSubnets",
                 "iam:ListInstanceProfilesForRole",
                 "iam:PassRole",
