@@ -253,6 +253,7 @@ your user is not called ***jenkins***):
                 "ec2:DescribeInstanceTypes",
                 "ec2:DescribeKeyPairs",
                 "ec2:DescribeRegions",
+                "ec2:DescribeSpotPriceHistory",
                 "ec2:DescribeImages",
                 "ec2:DescribeAvailabilityZones",
                 "ec2:DescribeSecurityGroups",
